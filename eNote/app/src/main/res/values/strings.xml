@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">eNote</string>
+    <string name="text">Enter your memo!</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save</string>
+    <string name="download">Downloads</string>
+    <string name="toast">Memo saved !</string>
+    <string name="notification">Memo correctly deleted!</string>
+    <string name="alert">Are you sure ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="text2"> Your downloads</string>
+    <string name="research">Google Research</string>
+</resources>
